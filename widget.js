@@ -133,6 +133,7 @@
         border-radius: 5px; outline: none; resize: none;
         font-size: 14px; font-family: inherit;
         min-height: 40px; max-height: 150px;
+        background: white;
     }
     .chat-input-atalia button {
         padding: 10px; background: var(--chat-primary-color); color: white;
