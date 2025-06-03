@@ -101,6 +101,7 @@
         display: flex;
         flex-direction: column;
         background-color: #fff;
+        color: black;
     }
     .message-atalia {
         display: flex; align-items: flex-start;
