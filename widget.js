@@ -4,7 +4,7 @@
     const chatConfig = {
         wsUrl: "wss://atalia.morbrain.com/ws", // URL de tu WebSocket
         // wsUrl: "ws://localhost:8000/ws", // Para pruebas locales
-        avatarUrl: "imagen/atal.ia.jpg", // URL de la imagen del avatar (reemplaza con tu imagen)
+        avatarUrl: "./imagen/atal.ia.jpg", // URL de la imagen del avatar (reemplaza con tu imagen)
         botName: "ATALIA",
         botSubtitle: "Estamos aquí para ayudarte.",
         greetingMessage: "👋 ¡Hola! soy ATALIA",
