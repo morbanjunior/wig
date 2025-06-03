@@ -101,7 +101,7 @@
         display: flex;
         flex-direction: column;
         background-color: #fff;
-        color: black;
+        
     }
     .message-atalia {
         display: flex; align-items: flex-start;
@@ -135,6 +135,7 @@
         font-size: 14px; font-family: inherit;
         min-height: 40px; max-height: 150px;
         background: white;
+        color: black;
     }
     .chat-input-atalia button {
         padding: 10px; background: var(--chat-primary-color); color: white;
